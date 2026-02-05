@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Romir! 👋<br>First Year Software Engineering Student @ University of Greenwich<br><br>I'm currently working on: Expanding my Python & Javascript skills through university coursework and online courses and certifications.<br><br>I'm currently learning: Docker, IoT Security, and Advanced Object-Oriented Programming<br><br>I'm looking to collaborate on: Open-source AI projects or cybersecurity tools<br><br>Ask me about: Python automation, Social Media bots, and Student Life in London<br><br>Fun fact: I'm a motorsports enthusiast and love go-kart racing on weekends! 🏎️
+Hi there, I'm Romir! 👋<br>First Year Software Engineering Student @ University of Greenwich<br><br>I'm currently working on: Expanding my Python & Javascript skills through university coursework and online courses and certifications.<br><br>I'm currently learning: Cybersecurity Fundamentals, Docker, IoT Security, and Advanced Object-Oriented Programming<br><br>I'm looking to collaborate on: Open-source AI projects or cybersecurity tools<br><br>Ask me about: Python automation, Social Media bots, and Student Life in London<br><br>Fun fact: I'm a motorsports enthusiast and love go-kart racing on weekends! 🏎️
 
 
 ## 🌐 Socials:
