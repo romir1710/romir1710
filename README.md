@@ -143,6 +143,7 @@ Beyond core software development, I have continuously validated my knowledge thr
 
 **Security & Infrastructure**<br>
 <img src="https://img.shields.io/badge/The_Linux_Foundation-Secure_AI%2FML_Software_Dev-0D1117?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Foundation" />
+<img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-0D1117?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 
 </div>
 
