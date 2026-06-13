@@ -30,28 +30,27 @@
 
 ## 🔬 About Me
 
-[cite_start]I am a **Software Engineering** student at the University of Greenwich, specializing in Artificial Intelligence, Machine Learning, and full-stack development[cite: 3]. Operating with a product engineering mindset, I bridge the gap between complex theoretical AI and production-ready applications. [cite_start]My technical expertise spans Python, Next.js, and modern cloud technologies[cite: 4]. [cite_start]I possess strong experience in Agentic AI, having architected autonomous agents that interface seamlessly with Web3 and blockchain tools[cite: 22, 32].
+I am a **Software Engineering** student at the University of Greenwich, specializing in Artificial Intelligence, Machine Learning, and full-stack development. Operating with a product engineering mindset, I bridge the gap between complex theoretical AI and production-ready applications. My technical expertise spans Python, Next.js, and modern cloud technologies. I possess strong experience in Agentic AI, having architected autonomous agents that interface seamlessly with Web3 and blockchain tools.
 
-[cite_start]Beyond core software development, I have continuously validated my knowledge through industry certifications in Cybersecurity, Software Development, IoT, and Agentic AI Development[cite: 4]. [cite_start]I am actively seeking software engineering internships to contribute to high-impact projects and scale enterprise-grade applications[cite: 5].
+Beyond core software development, I have continuously validated my knowledge through industry certifications in Cybersecurity, Software Development, IoT, and Agentic AI Development. I am actively seeking software engineering internships to contribute to high-impact projects and scale enterprise-grade applications.
 
-[cite_start]**Currently Open To:** Software engineering internships[cite: 5], open-source collaborations, and AI research initiatives.
+**Currently Open To:** Software engineering internships, open-source collaborations, and AI research initiatives.
 
 ---
 
 ## 🛠 Tech Stack
 
-<div align="center">
-  
-**Languages**<br>
-<img src="https://skillicons.dev/icons?i=python,js,ts,sql&theme=dark" alt="Languages" /><br><br>
-**Frontend**<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css&theme=dark" alt="Frontend" /><br><br>
-**Backend & Cloud**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,vercel,docker,linux&theme=dark" alt="Backend" /><br><br>
-**DevOps & Tooling**<br>
-<img src="https://skillicons.dev/icons?i=git,github,postman,bash&theme=dark" alt="DevOps & Tools" />
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-</div>
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
+
+### Cloud, DevOps & Tooling
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ---
 
@@ -59,10 +58,10 @@
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Agentic AI Architecture** | Advanced | [cite_start]LangChain, Gemini, ReAct frameworks, Agentic design [cite: 25, 32] |
-| **LLM Orchestration & Search** | Advanced | [cite_start]LangSmith tracing, Semantic Search, RAG implementation [cite: 25, 34] |
-| **Web3 & Blockchain AI** | Intermediate | [cite_start]VeChain, Smart contracts, Autonomous agents [cite: 22, 32] |
-| **Full Stack AI Delivery** | Advanced | [cite_start]Next.js, React, Tailwind CSS integration [cite: 27] |
+| **Agentic AI Architecture** | Advanced | LangChain, Gemini, ReAct frameworks, Agentic design |
+| **LLM Orchestration & Search** | Advanced | LangSmith tracing, Semantic Search, RAG implementation |
+| **Web3 & Blockchain AI** | Intermediate | VeChain, Smart contracts, Autonomous agents |
+| **Full Stack AI Delivery** | Advanced | Next.js, React, Tailwind CSS integration |
 
 ---
 
@@ -71,35 +70,35 @@
 <details>
   <summary><b>🏆 OmniSearch AI - Accessible Search Engine</b></summary>
   <br>
-  [cite_start]A WCAG 2.2 AA-compliant search engine designed for total accessibility[cite: 16].
+  A WCAG 2.2 AA-compliant search engine designed for total accessibility.
   
   | Metric | Details |
   | :--- | :--- |
-  | **Stack** | [cite_start]Next.js 16, React 19, Tailwind CSS, Vercel, Google Antigravity [cite: 27, 28] |
-  | **Scale** | [cite_start]Fully compliant WCAG 2.2 AA application [cite: 28] |
-  | **Performance** | [cite_start]Responsive Framer Motion animations [cite: 30] |
+  | **Stack** | Next.js 16, React 19, Tailwind CSS, Vercel, Google Antigravity |
+  | **Scale** | Fully compliant WCAG 2.2 AA application |
+  | **Performance** | Responsive Framer Motion animations |
   | **Security** | Secure and accessible UI architecture |
-  | **Impact** | [cite_start]1st place winner at the Google ADC Hackathon [cite: 28] |
-  | **Repository** | [cite_start][Live at omnisearch-ai.vercel.app](https://omnisearch-ai.vercel.app) [cite: 30] |
+  | **Impact** | 1st place winner at the Google ADC Hackathon |
+  | **Repository** | [Live at omnisearch-ai.vercel.app](https://omnisearch-ai.vercel.app) |
   
-  [cite_start]*Professional Context:* Engineered an AI Access View featuring 4 cognitive modes (Vision, Motor, Cognitive, ADHD), complete with full keyboard navigation and >=4.5:1 contrast ratios[cite: 17, 29]. [cite_start]Implemented user-centric design principles including light/dark/high-contrast themes and dyslexia-friendly fonts[cite: 30].
+  *Professional Context:* Engineered an AI Access View featuring 4 cognitive modes (Vision, Motor, Cognitive, ADHD), complete with full keyboard navigation and >=4.5:1 contrast ratios. Implemented user-centric design principles including light/dark/high-contrast themes and dyslexia-friendly fonts.
 </details>
 
 <details>
   <summary><b>🏎️ F1 Race Strategy AI Agent</b></summary>
   <br>
-  [cite_start]A real-time autonomous agent utilizing the ReAct framework to analyze dynamic race variables and deliver F1 strategy decisions[cite: 25].
+  A real-time autonomous agent utilizing the ReAct framework to analyze dynamic race variables and deliver F1 strategy decisions.
   
   | Metric | Details |
   | :--- | :--- |
-  | **Stack** | [cite_start]Python, LangChain, Google Gemini 2.5 Flash, Telegram Bot API [cite: 25] |
-  | **Scale** | [cite_start]Concurrent multi-user session handling [cite: 25] |
-  | **Performance** | [cite_start]Async Python architecture processing real-time analytics [cite: 25] |
-  | **Security** | [cite_start]Per-user rate limiting (10 calls/day) [cite: 26] |
-  | **Impact** | [cite_start]Full agent observability tracked via LangSmith [cite: 26] |
+  | **Stack** | Python, LangChain, Google Gemini 2.5 Flash, Telegram Bot API |
+  | **Scale** | Concurrent multi-user session handling |
+  | **Performance** | Async Python architecture processing real-time analytics |
+  | **Security** | Per-user rate limiting (10 calls/day) |
+  | **Impact** | Full agent observability tracked via LangSmith |
   | **Repository** | [View Source Code](https://github.com/romir1710) |
 
-  [cite_start]*Professional Context:* Integrated 4 custom tools covering tyre degradation, pit window calculations, telemetry, and web search to provide highly accurate strategy calls[cite: 25]. [cite_start]Designed a seamless human-in-the-loop pit confirmation flow[cite: 25].
+  *Professional Context:* Integrated 4 custom tools covering tyre degradation, pit window calculations, telemetry, and web search to provide highly accurate strategy calls. Designed a seamless human-in-the-loop pit confirmation flow.
 </details>
 
 ---
@@ -107,18 +106,18 @@
 ## 💼 Experience
 
 **Google ADC Hackathon Winner Team Leader** | Google for Developers
-*04/2026 - 04/2026* | [cite_start]London, UK [cite: 10, 11, 14, 15]
-* [cite_start]Led a 4-person team to secure 1st place at the Google ADC Hackathon[cite: 16].
-* [cite_start]Directed the development of OmniSearch AI, a WCAG 2.2 AA-compliant search engine utilizing Next.js, Tailwind CSS, and Vercel[cite: 16].
-* [cite_start]Architected a specialized AI Access View incorporating 4 distinct cognitive modes (Vision, Motor, Cognitive, ADHD) alongside full keyboard navigation[cite: 17].
-* [cite_start]Presented the platform live to specialized accessibility experts at Google's ADC Centre in London[cite: 18].
+*04/2026 - 04/2026* | London, UK
+* Led a 4-person team to secure 1st place at the Google ADC Hackathon.
+* Directed the development of OmniSearch AI, a WCAG 2.2 AA-compliant search engine utilizing Next.js, Tailwind CSS, and Vercel.
+* Architected a specialized AI Access View incorporating 4 distinct cognitive modes (Vision, Motor, Cognitive, ADHD) alongside full keyboard navigation.
+* Presented the platform live to specialized accessibility experts at Google's ADC Centre in London.
 `Next.js` `Tailwind CSS` `Product Engineering` `Accessibility`
 
 **Blockchain AI Agent Developer** | VeChain Hackathon
-*02/2026 - 02/2026* | [cite_start]London, UK [cite: 19, 20, 21]
-* [cite_start]Engineered highly capable AI agents designed to interface directly with the VeChain blockchain, utilizing proprietary developer tools[cite: 22].
-* [cite_start]Acquired practical, hands-on experience in Agentic AI, significantly strengthening expertise in autonomous agent design and Web3 ecosystems[cite: 22].
-* [cite_start]Benefited from direct industry mentorship provided by the VeChain team, securing valuable insights into the deployment of real-world agent applications[cite: 23].
+*02/2026 - 02/2026* | London, UK
+* Engineered highly capable AI agents designed to interface directly with the VeChain blockchain, utilizing proprietary developer tools.
+* Acquired practical, hands-on experience in Agentic AI, significantly strengthening expertise in autonomous agent design and Web3 ecosystems.
+* Benefited from direct industry mentorship provided by the VeChain team, securing valuable insights into the deployment of real-world agent applications.
 `Python` `Web3` `Blockchain` `Agentic AI`
 
 ---
@@ -127,9 +126,9 @@
 
 | Recognition | Details |
 | :---: | :--- |
-| **🥇 1st Place Winner** | [cite_start]Google ADC Hackathon (Team Leader - OmniSearch AI) [cite: 11, 16] |
-| **🔗 Blockchain Developer** | [cite_start]Built autonomous agents under mentorship at VeChain Hackathon [cite: 20, 23] |
-| **🏎️ Agentic AI Engineer** | [cite_start]Architected real-time F1 Race Strategy AI with Gemini & LangChain [cite: 25] |
+| **🥇 1st Place Winner** | Google ADC Hackathon (Team Leader - OmniSearch AI) |
+| **🔗 Blockchain Developer** | Built autonomous agents under mentorship at VeChain Hackathon |
+| **🏎️ Agentic AI Engineer** | Architected real-time F1 Race Strategy AI with Gemini & LangChain |
 
 ---
 
@@ -138,14 +137,25 @@
 <div align="center">
 
 **Agentic AI & Machine Learning**<br>
-<img src="https://img.shields.io/badge/IBM-RAG_and_Agentic_AI-0D1117?style=for-the-badge&logo=ibm&logoColor=8A2BE2" alt="IBM" />
-<img src="https://img.shields.io/badge/NVIDIA-Agentic_AI_Explained-0D1117?style=for-the-badge&logo=nvidia&logoColor=8A2BE2" alt="NVIDIA" />
-<img src="https://img.shields.io/badge/Anthropic-Claude_101_%26_AI_Fluency-0D1117?style=for-the-badge&logo=anthropic&logoColor=8A2BE2" alt="Anthropic" />
-<img src="https://img.shields.io/badge/LangChain_Academy-Intro_to_LangChain_Python-0D1117?style=for-the-badge&logo=python&logoColor=8A2BE2" alt="LangChain" />
+<img src="https://img.shields.io/badge/IBM-RAG_and_Agentic_AI-0D1117?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM" />
+<img src="https://img.shields.io/badge/NVIDIA-Agentic_AI_Explained-0D1117?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
+<img src="https://img.shields.io/badge/Anthropic-Claude_101_%26_AI_Fluency-0D1117?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+<img src="https://img.shields.io/badge/LangChain_Academy-Intro_to_LangChain_Python-0D1117?style=for-the-badge&logo=python&logoColor=white" alt="LangChain" />
 
 **Security & Infrastructure**<br>
-<img src="https://img.shields.io/badge/The_Linux_Foundation-Secure_AI%2FML_Software_Dev-0D1117?style=for-the-badge&logo=linux&logoColor=8A2BE2" alt="Linux Foundation" />
+<img src="https://img.shields.io/badge/The_Linux_Foundation-Secure_AI%2FML_Software_Dev-0D1117?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Foundation" />
 
+</div>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Romir_Tandon-0D1117?style=for-the-badge&logo=leetcode&logoColor=8A2BE2" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/HackerRank-Romir_Tandon-0D1117?style=for-the-badge&logo=hackerrank&logoColor=8A2BE2" alt="HackerRank" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Romir_Tandon-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=8A2BE2" alt="GeeksforGeeks" />
+  <img src="https://img.shields.io/badge/CodeChef-Romir_Tandon-0D1117?style=for-the-badge&logo=codechef&logoColor=8A2BE2" alt="CodeChef" />
 </div>
 
 ---
@@ -157,6 +167,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=romir1710&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="48%" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romir1710&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" width="60%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=romir1710&theme=dracula&no-frame=true&no-bg=true&margin-w=15&title-text-color=8A2BE2" alt="Trophies" />
 </div>
 
 ---
