@@ -152,10 +152,10 @@ Beyond core software development, I have continuously validated my knowledge thr
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romir1710&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romir1710&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=romir1710&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romir1710&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&cache_seconds=1800" width="48%" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romir1710&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romir1710&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&cache_seconds=1800" width="60%" />
 </div>
 
 ---
