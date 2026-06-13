@@ -1,9 +1,13 @@
 name: Generate Snake
 
 on:
-  schedule: # Runs every 24 hours
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:
+
+# Grants the required permissions to push the SVG to your repo
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -20,7 +24,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push Snake SVG to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4 # Bumped to v4 to clear the Node warning
         with:
           target_branch: output
           build_dir: dist
