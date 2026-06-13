@@ -193,6 +193,7 @@ status:
     - Advanced ReAct AI Implementations
     - Enterprise Cloud Orchestration
 
-  open_to:
+  open to:
+
     - Software Engineering & AI Engineering Internships
     - Open Source AI Contributions
