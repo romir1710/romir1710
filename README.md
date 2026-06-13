@@ -21,7 +21,6 @@
 <br>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=romir1710&icon=3&color=6" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/romir1710?style=for-the-badge&color=0D1117&logo=github&logoColor=8A2BE2" alt="Followers" />
   <img src="https://img.shields.io/github/stars/romir1710?style=for-the-badge&color=0D1117&logo=github&logoColor=8A2BE2" alt="Stars" />
 </div>
@@ -149,17 +148,6 @@ Beyond core software development, I have continuously validated my knowledge thr
 
 ---
 
-## 💻 Coding Profiles
-
-<div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Romir_Tandon-0D1117?style=for-the-badge&logo=leetcode&logoColor=8A2BE2" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/HackerRank-Romir_Tandon-0D1117?style=for-the-badge&logo=hackerrank&logoColor=8A2BE2" alt="HackerRank" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Romir_Tandon-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=8A2BE2" alt="GeeksforGeeks" />
-  <img src="https://img.shields.io/badge/CodeChef-Romir_Tandon-0D1117?style=for-the-badge&logo=codechef&logoColor=8A2BE2" alt="CodeChef" />
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -167,22 +155,6 @@ Beyond core software development, I have continuously validated my knowledge thr
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=romir1710&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="48%" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romir1710&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" width="60%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=romir1710&theme=dracula&no-frame=true&no-bg=true&margin-w=15&title-text-color=8A2BE2" alt="Trophies" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romir1710&theme=tokyonight&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -202,22 +174,24 @@ Beyond core software development, I have continuously validated my knowledge thr
 ## ⚡ Current Focus
 
 ```yaml
-profile:
-  developer: "Romir Tandon"
-  role: "Software Engineer | AI Specialist"
-  location: "London, UK"
 
 status:
-  learning: 
+
+  learning:
+
     - Agentic AI Architectures
     - Cybersecurity & IoT Infrastructure
-    - Web3 & Blockchain Development
+
   building:
-    - F1 Race Strategy AI Agent (LangChain & Gemini)
-    - OmniSearch AI (Next.js & Vercel)
+
+    - Personal Board of Directors (Multi-agent Telegram Bot + Website, LangGraph & Gemini 2.5 Flash)
+    - F1 Race Strategy AI Agent (LangChain & Gemini 2.5 Flash)
+
   exploring:
+
     - Advanced ReAct AI Implementations
     - Enterprise Cloud Orchestration
+
   open_to:
-    - Software Engineering Internships
+    - Software Engineering & AI Engineering Internships
     - Open Source AI Contributions
