@@ -69,35 +69,35 @@ Beyond core software development, I have continuously validated my knowledge thr
 <details>
   <summary><b>👔 Personal Board of Directors</b></summary>
   <br>
-  [A brief 1-2 sentence description of the Personal Board of Directors project.]
+  A premium dark-themed web app featuring LangGraph orchestration and a parallelised multi-agent AI board to analyze user ideas.
   
   | Metric | Details |
   | :--- | :--- |
-  | **Stack** | [e.g., Next.js, React, Node.js, PostgreSQL] |
-  | **Scale** | [e.g., Number of users, database size, or architecture scope] |
-  | **Performance** | [e.g., Load times, optimization metrics, or animation frameworks] |
-  | **Security** | [e.g., Authentication methods, data encryption] |
-  | **Impact** | [e.g., Any awards, key achievements, or user impact] |
+  | **Stack** | FastAPI, LangGraph, Supabase, Vanilla JS, HTML/CSS, pypdf |
+  | **Scale** | 4 distinct AI personas operating in a single-page application |
+  | **Performance** | Parallelized 3 advisor nodes for ~50% faster response times |
+  | **Security** | Supabase authentication and secure Bring-Your-Own-Key (BYOK) support |
+  | **Impact** | Real-time synthesis of ideas with PDF context extraction |
   | **Repository** | [View Source Code](https://github.com/romir1710/personal-board-of-directors-web) |
   
-  *Professional Context:* [Add 2-3 sentences explaining your specific role, the problems you solved, and the engineering decisions you made.]
+  *Professional Context:* Engineered a high-performance backend using FastAPI and LangGraph to coordinate multiple AI agents simultaneously via ThreadPoolExecutor. Implemented flexible multi-provider LLM integration (Gemini, OpenAI, Claude, OpenRouter) and robust session management with Supabase.
 </details>
 
 <details>
   <summary><b>🛡️ FlowState: Fintech Fraud Detection Pipeline</b></summary>
   <br>
-  [A brief 1-2 sentence description of the FlowState fraud detection pipeline.]
+  A production-deployed, full-stack real-time fraud detection system built on an event-driven Kafka architecture.
   
   | Metric | Details |
   | :--- | :--- |
-  | **Stack** | [e.g., Python, TensorFlow, PyTorch, Apache Kafka, AWS] |
-  | **Scale** | [e.g., Volume of transactions processed, dataset size] |
-  | **Performance** | [e.g., Processing speed, latency, model accuracy/F1 score] |
-  | **Security** | [e.g., Data anonymization, compliance standards] |
-  | **Impact** | [e.g., Reduction in false positives, monetary savings simulated] |
+  | **Stack** | Apache Kafka, Node.js, Redis, PostgreSQL, React, Vite, WebSockets |
+  | **Scale** | Continuous live transaction streaming and processing pipeline |
+  | **Performance** | Low-latency 60-second fixed-window velocity caching via Redis |
+  | **Security** | Custom two-factor risk-scoring algorithm (amount + velocity) |
+  | **Impact** | Instantaneous live browser dashboard updates via WebSockets |
   | **Repository** | [View Source Code](https://github.com/romir1710/FlowState_Fintech_Fraud_Detection) |
   
-  *Professional Context:* [Add 2-3 sentences explaining your specific role, the machine learning models used, and the data pipeline architecture.]
+  *Professional Context:* Engineered a real-time data pipeline streaming events from a Node.js producer through Apache Kafka to a fraud-scoring consumer. Designed a custom risk algorithm weighting transaction amounts against Redis-backed velocity counters, persisting flagged events in PostgreSQL, and broadcasting them live to a React dashboard.
 </details>
 
 <details>
