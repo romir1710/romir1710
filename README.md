@@ -67,6 +67,40 @@ Beyond core software development, I have continuously validated my knowledge thr
 ## 🚀 Featured Projects
 
 <details>
+  <summary><b>👔 Personal Board of Directors</b></summary>
+  <br>
+  [A brief 1-2 sentence description of the Personal Board of Directors project.]
+  
+  | Metric | Details |
+  | :--- | :--- |
+  | **Stack** | [e.g., Next.js, React, Node.js, PostgreSQL] |
+  | **Scale** | [e.g., Number of users, database size, or architecture scope] |
+  | **Performance** | [e.g., Load times, optimization metrics, or animation frameworks] |
+  | **Security** | [e.g., Authentication methods, data encryption] |
+  | **Impact** | [e.g., Any awards, key achievements, or user impact] |
+  | **Repository** | [View Source Code](https://github.com/romir1710/personal-board-of-directors-web) |
+  
+  *Professional Context:* [Add 2-3 sentences explaining your specific role, the problems you solved, and the engineering decisions you made.]
+</details>
+
+<details>
+  <summary><b>🛡️ FlowState: Fintech Fraud Detection Pipeline</b></summary>
+  <br>
+  [A brief 1-2 sentence description of the FlowState fraud detection pipeline.]
+  
+  | Metric | Details |
+  | :--- | :--- |
+  | **Stack** | [e.g., Python, TensorFlow, PyTorch, Apache Kafka, AWS] |
+  | **Scale** | [e.g., Volume of transactions processed, dataset size] |
+  | **Performance** | [e.g., Processing speed, latency, model accuracy/F1 score] |
+  | **Security** | [e.g., Data anonymization, compliance standards] |
+  | **Impact** | [e.g., Reduction in false positives, monetary savings simulated] |
+  | **Repository** | [View Source Code](https://github.com/romir1710/FlowState_Fintech_Fraud_Detection) |
+  
+  *Professional Context:* [Add 2-3 sentences explaining your specific role, the machine learning models used, and the data pipeline architecture.]
+</details>
+
+<details>
   <summary><b>🏆 OmniSearch AI - Accessible Search Engine</b></summary>
   <br>
   A WCAG 2.2 AA-compliant search engine designed for total accessibility.
@@ -95,7 +129,7 @@ Beyond core software development, I have continuously validated my knowledge thr
   | **Performance** | Async Python architecture processing real-time analytics |
   | **Security** | Per-user rate limiting (10 calls/day) |
   | **Impact** | Full agent observability tracked via LangSmith |
-  | **Repository** | [View Source Code](https://github.com/romir1710) |
+  | **Repository** | [View Source Code](https://github.com/romir1710/F1-Race-Strategy-AI) |
 
   *Professional Context:* Integrated 4 custom tools covering tyre degradation, pit window calculations, telemetry, and web search to provide highly accurate strategy calls. Designed a seamless human-in-the-loop pit confirmation flow.
 </details>
