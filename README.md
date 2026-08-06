@@ -161,7 +161,7 @@ Beyond core software development, I have continuously validated my knowledge thr
 | :---: | :--- |
 | **🥇 1st Place Winner** | Google ADC Hackathon (Team Leader - OmniSearch AI) |
 | **🔗 Blockchain Developer** | Built autonomous agents under mentorship at VeChain Hackathon |
-| **🏎️ Agentic AI Engineer** | Architected real-time F1 Race Strategy AI with Gemini & LangChain |
+| **👔 Agentic AI Engineer** | Architected an AI Personal Board of Directors, with built in BYOK and Google, GitHub & Email Sign Up |
 
 ---
 
