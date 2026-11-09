@@ -129,7 +129,7 @@ Beyond core software development, I have continuously validated my knowledge thr
   | **Performance** | Async Python architecture processing real-time analytics |
   | **Security** | Per-user rate limiting (10 calls/day) |
   | **Impact** | Full agent observability tracked via LangSmith |
-  | **Repository** | [View Source Code]((https://github.com/romir1710/F1-Live-Race-Strategy-Copilot)) |
+  | **Repository** | [View Source Code](https://github.com/romir1710/F1-Live-Race-Strategy-Copilot) |
 
   *Professional Context:* Integrated 4 custom tools covering tyre degradation, pit window calculations, telemetry, and web search to provide highly accurate strategy calls. Designed a seamless human-in-the-loop pit confirmation flow.
 </details>
